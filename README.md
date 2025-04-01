@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nisha0987A
-- 👀 I’m interested in coding ...
-- 🌱 I’m currently learning  python ...
-- 💞️ I’m looking to collaborate on large projects...
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning  python 
+- 💞️ I’m looking to collaborate on large projects
   
 
 <!---
